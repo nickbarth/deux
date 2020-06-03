@@ -15,7 +15,7 @@ except (AttributeError, ImportError):
     def _pyimp():
         return 'Python'
 
-NAME = 'deux'
+NAME = 'tob-deux'
 
 E_UNSUPPORTED_PYTHON = '%s 1.2.0 requires %%s %%s or later!' % (NAME,)
 
