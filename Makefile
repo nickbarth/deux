@@ -1,4 +1,4 @@
-PROJ=deux
+PROJ=tob-deux
 PYTHON=python
 GIT=git
 TOX=tox
